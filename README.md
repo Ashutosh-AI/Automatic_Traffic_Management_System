@@ -35,9 +35,11 @@ We have everything we need to calculate speed. With the time and space variable,
 
 ![clip1](https://github.com/Ashutosh-AI/Automatic_Traffic_Management_System/assets/53949585/b7f78040-d380-4fbc-b803-138fbd0f3c8a)
 
-![clip4](https://github.com/Ashutosh-AI/Automatic_Traffic_Management_System/assets/53949585/d2f879b1-c911-4bf1-9171-08f127044851)
 
-Finally:
+# Final Output Video:
+
+https://github.com/Ashutosh-AI/Automatic_Traffic_Management_System/assets/53949585/6143aedb-5739-4f98-a390-4d39a9b51d20
+
 
 
 
