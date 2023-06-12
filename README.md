@@ -15,7 +15,6 @@ I divided this project into 4 parts but I will focus in particular on the part t
 allowed_objects for Detection
 (bicycle, car, motorcycle, bus, truck)
 
-![clip4](https://github.com/Ashutosh-AI/Automatic_Traffic_Management_System/assets/53949585/d2f879b1-c911-4bf1-9171-08f127044851)
 
 
 
@@ -31,6 +30,8 @@ At the code level, it is enough to indicate 4 points for each area, one way to d
 We have everything we need to calculate speed. With the time and space variable, a small mathematical calculation is enough to obtain the required result and therefore the speed detection for each vehicle.
 
 ![clip1](https://github.com/Ashutosh-AI/Automatic_Traffic_Management_System/assets/53949585/b7f78040-d380-4fbc-b803-138fbd0f3c8a)
+
+![clip4](https://github.com/Ashutosh-AI/Automatic_Traffic_Management_System/assets/53949585/d2f879b1-c911-4bf1-9171-08f127044851)
 
 Finally:
 
