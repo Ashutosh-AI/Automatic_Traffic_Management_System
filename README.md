@@ -1,6 +1,10 @@
 # Automatic_Traffic_Management_System
 
 
+https://github.com/Ashutosh-AI/Automatic_Traffic_Management_System/assets/53949585/54ea1f34-5c89-4e18-b295-ba42e8f31ccd
+
+
+
 
 I divided this project into 4 parts but I will focus in particular on the part to calculate the speed of the vehicles:
 
